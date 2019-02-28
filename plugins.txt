@@ -1,0 +1,8 @@
+hashicorp-vault-plugin
+chucknorris
+git
+greenballs
+build-time-blame
+display-console-output
+workflow-aggregator
+workflow-job
