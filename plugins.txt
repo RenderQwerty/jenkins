@@ -1,6 +1,6 @@
 git
 role-strategy
-ldap
+ldap:1.14
 credentials
 ssh-credentials
 credentials-binding
