@@ -1,8 +1,13 @@
-hashicorp-vault-plugin
-chucknorris
 git
-greenballs
+ldap
+credentials
+ssh-credentials
+credentials-binding
+pipeline-model-definition
+workflow-multibranch
 build-time-blame
 display-console-output
 workflow-aggregator
 workflow-job
+prometheus
+simple-theme-plugin
