@@ -1,4 +1,5 @@
 git
+role-strategy
 ldap
 credentials
 ssh-credentials
