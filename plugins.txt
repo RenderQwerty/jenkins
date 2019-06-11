@@ -12,5 +12,6 @@ workflow-aggregator
 workflow-job
 cloudbees-folder
 configuration-as-code
+jdk-tool
 prometheus
 simple-theme-plugin
